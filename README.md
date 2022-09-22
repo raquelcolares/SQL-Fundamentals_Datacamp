@@ -10,7 +10,7 @@ In this course, I've learned the skills needed to level up my data skills throug
 
 2 - Joining Data in SQL
 
-3 - Intermediate SQL
+3 - Data Manipulation in SQL
 
 4 - PostgreSQL Summary Stats and Window Functions
 
